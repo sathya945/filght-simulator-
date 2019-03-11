@@ -1,0 +1,3 @@
+/home/sathya/graphics-boilerplate/bulid/CMakeFiles/rebuild_cache.dir
+/home/sathya/graphics-boilerplate/bulid/CMakeFiles/graphics_asgn1.dir
+/home/sathya/graphics-boilerplate/bulid/CMakeFiles/edit_cache.dir
